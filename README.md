@@ -22,7 +22,7 @@ It includes multiple **utility, fun, crypto, and custom message styling** comman
 - 🎨 **Custom Message Styling** – Send beautiful, formatted messages.
 - 💰 **Balance Checker** – Track user balances.
 - ⚡ **Fast Setup** – Minimal configuration required.
-
+![Preview](image.png)
 ---
 
 ## 📦 Installation & Setup
