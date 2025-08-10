@@ -1,0 +1,17 @@
+{
+    "token": "",
+    "prefix": "!",
+    "allowed_users": [
+        "",
+        "#"
+    ],
+    "copycat_users": [],
+    "auto_react_users": [],
+    "autoresponders": {
+        "paypal": "paypal.me/yourname",
+        "addy": "```your custom response here```"
+    },
+    "afk_users": [
+        {}
+    ]
+}
